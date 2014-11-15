@@ -1,0 +1,50 @@
+/*
+			Sitemap
+			*/
+		
+			table#sitemap td{
+				vertical-align:top;
+			}
+			table#sitemap p{
+				font-size:1em;
+				font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+			}
+			table#sitemap .aboutUs{
+				width:40%;
+				padding:0px 100px 0px 0px;
+				vertical-align:top;
+			}
+			table#sitemap .contactUs{
+				width:35%;
+			}
+			footer{
+				background-color:white;
+				border:40px solid white;
+			}
+			footer .siteMapHeading{
+				font-weight:sans-serif;
+				font-size:1.125em;
+				font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+				text-transform:uppercase;
+				color:#5a5a5a;
+			}
+			
+			footer img{
+				vertical-align:center;
+				height:40px;
+				padding:10px;
+			}
+			footer #sponsorsWrapper{
+			
+				margin-top:20px;
+			}
+			footer #sponsors {
+			margin:auto;
+				width:90%;
+			text-align:left;
+			}
+			footer #sponsors img{
+				padding:15px;
+				height:75px;
+				vertical-align:center;
+			}
